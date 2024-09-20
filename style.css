@@ -1,0 +1,41 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+.hidden {
+    display: none;
+}
+
+#container-quiz {
+    margin-top: 30px;
+}
+
+#barra-progresso {
+    background-color: #e9ecef;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+#opcoes button {
+    width: 100%;
+    margin: 5px 0;
+}
+
+#container-resultados {
+    margin-top: 30px;
+}
+
+.btn-sucesso {
+    background-color: #28a745 !important; /* Verde */
+    color: white !important;
+}
+
+.btn-perigo {
+    background-color: #dc3545 !important; /* Vermelho */
+    color: white !important;
+}
